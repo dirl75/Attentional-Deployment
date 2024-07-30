@@ -12,7 +12,9 @@
 
 # ADT requires a folder called "Imagenes Tarea DA" containing all the stimuli that the task uses, plus a couple of images that are displayed while participants deliver their valence and intensity ratings.
 
-# running one session with ADT outputs a .txt and a .mat. Both files have the same data, which corresponds to the behavioral data from the session. They are saved to a folder called "data" which must be in the folder where ADT is.
+# ADT also requires a file called "Picture_Sequences.mat", containing the 3 possible stimuli sequences presented during the task.
+
+# running one session with ADT outputs a .txt and a .mat. Both files have the same data, corresponding to the session's behavioral data. They are saved to a folder called "data" which must be in the folder where ADT is.
 
 
 
