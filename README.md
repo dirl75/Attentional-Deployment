@@ -1,6 +1,6 @@
 # Attentional-Deployment
 
-# The main file is the function "AttentionDeploymentTask" (herein ADT), which runs a session of the task when executed.
+The main file is the function "AttentionDeploymentTask" (herein ADT), which runs a session of the task when executed.
 
 # The task requires Psychtoolbox (http://psychtoolbox.org/)
 
